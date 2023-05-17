@@ -1,0 +1,171 @@
+# depslib dependency file v1.0
+1683825029 source:d:\works\enctest\libs\aes\aes.cpp
+	"AES.h"
+
+1683825042 d:\works\enctest\libs\aes\aes.h
+	<cstdio>
+	<cstring>
+	<iostream>
+	<stdexcept>
+	<string>
+	<vector>
+
+1683825029 source:d:\works\enctest\libs\aes.cpp
+	"AES.h"
+
+1683825042 d:\works\enctest\libs\aes.h
+	<cstdio>
+	<cstring>
+	<iostream>
+	<stdexcept>
+	<string>
+	<vector>
+
+1683883600 source:d:\works\enctest\main.cpp
+	<iostream>
+	<filesystem>
+	<fstream>
+	<thread>
+	<chrono>
+	"aes/AES.h"
+
+1683836223 source:d:\works\enctest\libs\ftp\ftpdatatypes.cpp
+	"FTPDataTypes.h"
+	"smart_ptr.h"
+	<assert.h>
+
+1683836223 d:\works\enctest\libs\ftp\ftpdatatypes.h
+	<vector>
+	<map>
+	"Definements.h"
+	"time.h"
+
+1683836223 d:\works\enctest\libs\ftp\definements.h
+	<string>
+	<set>
+	<time.h>
+	<assert.h>
+	<stdlib.h>
+	<windows.h>
+	<errno.h>
+	<string.h>
+
+1683836223 d:\works\enctest\libs\ftp\smart_ptr.h
+	<memory>
+	<boost/smart_ptr.hpp>
+
+1683836223 source:d:\works\enctest\libs\ftp\ftpfilestatus.cpp
+	"FTPFileStatus.h"
+
+1683836223 d:\works\enctest\libs\ftp\ftpfilestatus.h
+	<string>
+	<vector>
+	"smart_ptr.h"
+	"Definements.h"
+
+1683836223 source:d:\works\enctest\libs\ftp\blockingsocket.cpp
+	<algorithm>
+	<assert.h>
+	<stdio.h>
+	"BlockingSocket.h"
+
+1683836223 d:\works\enctest\libs\ftp\blockingsocket.h
+	<string>
+	<string.h>
+	<memory>
+	"Definements.h"
+	<winsock2.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<errno.h>
+
+1683836223 source:d:\works\enctest\libs\ftp\ftplistparse.cpp
+	"FTPListParse.h"
+	"FTPFileStatus.h"
+	<time.h>
+	<string.h>
+
+1683836223 d:\works\enctest\libs\ftp\ftplistparse.h
+	<string>
+	"Definements.h"
+	"FTPClient.h"
+
+1683838400 d:\works\enctest\libs\ftp\ftpclient.h
+	<curl/curl.h>
+	<algorithm>
+	<atomic>
+	<cstddef>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	<direct.h>
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<fstream>
+	<functional>
+	<iostream>
+	<sstream>
+	<string>
+	<vector>
+	"CurlHandle.h"
+
+1683835095 source:d:\works\enctest\libs\ftp\curlhandle.cpp
+	"CurlHandle.h"
+	<curl/curl.h>
+	<stdexcept>
+
+1683835095 d:\works\enctest\libs\ftp\curlhandle.h
+
+1683837348 d:\works\enctest\libs\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"options.h"
+	"header.h"
+	"websockets.h"
+	"typecheck-gcc.h"
+
+1683837348 d:\works\enctest\libs\curl\curlver.h
+
+1683837348 d:\works\enctest\libs\curl\system.h
+	<ConditionalMacros.h>
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1683837348 d:\works\enctest\libs\curl\easy.h
+
+1683837348 d:\works\enctest\libs\curl\multi.h
+	"curl.h"
+
+1683837348 d:\works\enctest\libs\curl\urlapi.h
+	"curl.h"
+
+1683837348 d:\works\enctest\libs\curl\options.h
+
+1683837348 d:\works\enctest\libs\curl\header.h
+
+1683837348 d:\works\enctest\libs\curl\websockets.h
+
+1683837348 d:\works\enctest\libs\curl\typecheck-gcc.h
+
